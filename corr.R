@@ -108,7 +108,7 @@ ret.kurtosis <- t(kurtosis(retdata, method="moment"))
 qthree <- cbind(avg.daily.ret, annual.vol, semi.dev, 
                 ret.skewness,ret.kurtosis)
 
-write.csv(qthree, file = "qthreeanswers.csv")
+write.csv(qthree, file = "CommodBehavior.csv")
 
 # correlation matrix
 cor.matrix <- cor(retdata, use="complete")
