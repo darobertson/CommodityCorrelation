@@ -1,12 +1,18 @@
 # CommodityCorrelation
 
-* creates a file with commodity:
+R script that:
+
+* pulls front month commodity futures prices
+
+* creates file with commodity:
   * annual volatility
   * semi deviation
   * skewness
   * kurtosis
 
-* pulls front month commodity futures prices and creates a correlation plot written in R
+ * creates correlation plot
+
+
 
 To Run From terminal:
 
