@@ -6,7 +6,7 @@
   * skewness
   * kurtosis
 
-* pulls front month commodity futures prices and creates a correlation plot
+* pulls front month commodity futures prices and creates a correlation plot written in R
 
 To Run From terminal:
 
