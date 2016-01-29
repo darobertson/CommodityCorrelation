@@ -14,6 +14,8 @@ R script that:
 
 
 
+
+
 To Run From terminal:
 
   1) cd into the CommodityCorrelation directory
