@@ -10,7 +10,7 @@ R script that:
   * skewness
   * kurtosis
 
- * creates correlation plot
+* creates correlation plot
 
 
 
